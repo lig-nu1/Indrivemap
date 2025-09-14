@@ -15,7 +15,7 @@
 ## 🚀 Как запустить
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/<lig-nu1/geo-trip-analysis-indrive-hackathon.git
+   git clone https://github.com/lig-nu1/geo-trip-analysis-indrive-hackathon.git
    cd geo-trip-analysis-indrive-hackathon
 
 Установить зависимости:
