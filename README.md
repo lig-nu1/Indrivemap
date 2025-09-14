@@ -19,8 +19,8 @@
    cd geo-trip-analysis-indrive-hackathon
 
 Установить зависимости:
-   ```bash
-   pip install -r requirements.txt
+
+pip install -r requirements.txt
 
 Запустить ноутбук или открыть geo_heatmap.html в браузере.
 
