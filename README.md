@@ -22,7 +22,8 @@
 
 pip install -r requirements.txt
 
-Запустить ноутбук или открыть geo_heatmap.html в браузере.
+Запустить ноутбук или открыть geo_heatmap.html в браузере. 
+чтобы получить geo_heatmap.html - https://drive.google.com/file/d/10Oigi6zQ4-R3YSONVXdVcouJqiWwFs1j/view?usp=sharing
 
 📊 Результаты
 
